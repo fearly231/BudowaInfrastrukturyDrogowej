@@ -1,0 +1,5 @@
+Gliwice Zabrze 80.0
+Zabrze Katowice 160.0
+Gliwice Katowice 220.0
+Gliwice Wrocław 650.0
+Katowice Wrocław 760.0

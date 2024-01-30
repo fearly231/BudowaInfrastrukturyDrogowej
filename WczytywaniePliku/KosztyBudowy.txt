@@ -1,0 +1,13 @@
+Gliwice Zabrze 80.0
+Zabrze Katowice 160.0
+Gliwice Katowice 220.0
+Gliwice Wroclaw 650.0
+Katowice Wroclaw 760.0
+Wroclaw Szczecin 1000.0
+Szczecin Berlin 500.0
+Warszawa Berlin 2000.0
+Katowice Warszawa 350.0
+Szczecin Gdansk 200.0
+Wroclaw Poznan 200.0
+Poznan Gdansk 400.0
+Poznan Warszawa 500.0

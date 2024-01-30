@@ -1,0 +1,3 @@
+ = Gliwice Wrocław 650
+ = Zabrze Katowice 160
+ = Gliwice Zabrze 80
